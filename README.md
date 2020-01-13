@@ -1,6 +1,7 @@
 # Image-Fusion-Summary
 In order to promote the development of image fusion, we will summarize all relevant codes and papers in the field of image fusion. Code will be uploaded soon.
-  
+
+Name          Papers                                                           code(Code will be uploaded soon.)      
 1.FZL         Fast and Efficient Zero-Learning Image Fusion
 
 2.CSR         Image Fusion With Convolutional Sparse Representation
@@ -37,4 +38,11 @@ In order to promote the development of image fusion, we will summarize all relev
 
 18.JSR        Dictionary learning method for joint sparse representation-based image fusion}
 
+Evaluation metric   
+Name          Papers         code
+1. CPBD
+2. JNB
+3. VIF
+4. AG
+5. SSIM
 
