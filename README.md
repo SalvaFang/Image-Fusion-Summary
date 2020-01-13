@@ -45,4 +45,10 @@ Name          Papers         code
 3. VIF
 4. AG
 5. SSIM
+6. EN
+7. IFC
+8. MI
+9. PSNR
+10. GSSIM
+11.3-SSIM
 
